@@ -5,6 +5,6 @@
 	pip install bitarray
 
   cd /opt
-  git clone https://github.com/n0mjs710/dmr_utils.git
+  git clone https://github.com/sgtsmall/dmr_utils.git
   cd dmr_utils/
 	pip install --upgrade .
